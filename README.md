@@ -1,4 +1,5 @@
 # 1.boomsim
+- Year of 2020
 A simplified C++ game based on the iconic battleship board game.
 During my freshman year of high school, I learned how to code. To celebrate all the things I have learned throughout the year,
 I created my own text game based on battleships. It is a pretty long game, but it does work. There are some little kinks here
